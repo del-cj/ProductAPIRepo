@@ -21,8 +21,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
@@ -35,7 +39,7 @@
               "RelativeDocumentMoniker": "..\\ProductsApp.Tests\\TestSimpleProductController.cs",
               "ToolTip": "C:\\Users\\karla\\OneDrive\\Documents\\Temple\\Spring24\\qaTesting\\ProductsApp.Tests\\TestSimpleProductController.cs",
               "RelativeToolTip": "..\\ProductsApp.Tests\\TestSimpleProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T00:24:35.812Z",
               "EditorCaption": ""
@@ -50,8 +54,7 @@
               "RelativeToolTip": "Controllers\\ProductsController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T00:17:26.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T00:17:26.489Z"
             },
             {
               "$type": "Document",
@@ -63,8 +66,7 @@
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T00:15:33.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T00:15:33.976Z"
             }
           ]
         }
