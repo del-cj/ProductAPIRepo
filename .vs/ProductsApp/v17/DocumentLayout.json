@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\karla\\OneDrive\\Documents\\Temple\\Spring24\\qaTesting\\ProductsApp\\",
+  "WorkspaceRootPath": "C:\\Users\\karla\\OneDrive\\Documents\\Temple\\Spring24\\qaTesting\\ProductAPIReport\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{7C7B347B-3183-43FD-A434-C0795743C2B4}|..\\ProductsApp.Tests\\ProductsApp.Tests.csproj|c:\\users\\karla\\onedrive\\documents\\temple\\spring24\\qatesting\\productsapp.tests\\testsimpleproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2015E231-007F-4E78-A7BE-6875B98A30A0}|ProductsApp.csproj|c:\\users\\karla\\onedrive\\documents\\temple\\spring24\\qatesting\\productsapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2015E231-007F-4E78-A7BE-6875B98A30A0}|ProductsApp.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2015E231-007F-4E78-A7BE-6875B98A30A0}|ProductsApp.csproj|C:\\Users\\karla\\OneDrive\\Documents\\Temple\\Spring24\\qaTesting\\ProductAPIReport\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2015E231-007F-4E78-A7BE-6875B98A30A0}|ProductsApp.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2015E231-007F-4E78-A7BE-6875B98A30A0}|ProductsApp.csproj|c:\\users\\karla\\onedrive\\documents\\temple\\spring24\\qatesting\\productsapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2015E231-007F-4E78-A7BE-6875B98A30A0}|ProductsApp.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2015E231-007F-4E78-A7BE-6875B98A30A0}|ProductsApp.csproj|C:\\Users\\karla\\OneDrive\\Documents\\Temple\\Spring24\\qaTesting\\ProductAPIReport\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2015E231-007F-4E78-A7BE-6875B98A30A0}|ProductsApp.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,8 +21,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -31,31 +35,31 @@
               "RelativeDocumentMoniker": "..\\ProductsApp.Tests\\TestSimpleProductController.cs",
               "ToolTip": "C:\\Users\\karla\\OneDrive\\Documents\\Temple\\Spring24\\qaTesting\\ProductsApp.Tests\\TestSimpleProductController.cs",
               "RelativeToolTip": "..\\ProductsApp.Tests\\TestSimpleProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T00:24:35.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\karla\\OneDrive\\Documents\\Temple\\Spring24\\qaTesting\\ProductsApp\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\karla\\OneDrive\\Documents\\Temple\\Spring24\\qaTesting\\ProductAPIReport\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\karla\\OneDrive\\Documents\\Temple\\Spring24\\qaTesting\\ProductsApp\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\karla\\OneDrive\\Documents\\Temple\\Spring24\\qaTesting\\ProductAPIReport\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T00:17:26.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\karla\\OneDrive\\Documents\\Temple\\Spring24\\qaTesting\\ProductsApp\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\karla\\OneDrive\\Documents\\Temple\\Spring24\\qaTesting\\ProductAPIReport\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\karla\\OneDrive\\Documents\\Temple\\Spring24\\qaTesting\\ProductsApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\karla\\OneDrive\\Documents\\Temple\\Spring24\\qaTesting\\ProductAPIReport\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
